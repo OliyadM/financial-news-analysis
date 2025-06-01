@@ -1,0 +1,2 @@
+# Financial News and Stock Price Analysis
+This repository contains code for analyzing the Financial News and Stock Price Integration Dataset (FNSPID) to explore correlations between news sentiment and stock price movements. The project involves setting up a Python environment, performing EDA, calculating technical indicators, and analyzing sentiment correlations.
